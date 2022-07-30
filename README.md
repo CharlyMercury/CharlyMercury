@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlyMercury
 - 👀 In progress to become a Python Professional Developer
 - 🌱 I’m currently learning how to use in a correct way Git and Github
-- 💞️ I’m looking to collaborate on a great company
+- 💞️ I'm looking for collaborate on a great company
 - 📫 How to reach me carlos.mercury92@gmail.com
 
 <!---
